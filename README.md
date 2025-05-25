@@ -23,7 +23,7 @@ In high school they told us to “make a functional tool” using basic C in Vis
 But I said… nah 😅  
 I followed a YouTube tutorial and made a little brick game in C#.  
 I didn’t know much, but I figured it out. And I loved it 🖤
-And honestly... Even now, that moment makes me proud. ()
+And honestly... Even now, that moment makes me proud ✨
 
 ---
 
