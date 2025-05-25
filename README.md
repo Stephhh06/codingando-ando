@@ -43,7 +43,7 @@ I didn’t know much, but I figured it out. And I loved it 🖤
 
 ---
 
-## 🫶 Final thoughts
+## 💭 Final thoughts
 
 This is my space to make mistakes and learn out loud.  
 If you're also a baby dev — welcome, let's grow together 🌸
